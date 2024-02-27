@@ -1,18 +1,18 @@
 //
-//  SwiftUIView.swift
+//  FlowerView.swift
 //  A5StringTestThing
 //
-//  Created by Carver Wambold24 on 2/22/24.
+//  Created by Carver Wambold24 on 2/26/24.
 //
 
 import SwiftUI
 
-struct SwiftUIView: View {
+struct FlowerView: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
 #Preview {
-    SwiftUIView()
+    FlowerView()
 }
