@@ -8,10 +8,12 @@
 import SwiftUI
 
 @main
+
 struct A5StringTestThingApp: App {
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
